@@ -30,6 +30,7 @@ Update volname, size, portal and externalIP in restart.sh
 sh restart.sh
 ```
 
+# new learning 
 
-## License
+## mY personnal License
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fopenebs%2Fistgt.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fopenebs%2Fistgt?ref=badge_large)
